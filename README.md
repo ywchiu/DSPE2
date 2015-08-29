@@ -26,3 +26,8 @@
 - https://github.com/ywchiu/DSPE2/blob/master/Python_ETL_Data_Parsing.ipynb
 
 - https://github.com/ywchiu/DSPE2/blob/master/Python_ETL_Data_Storage_And_Analysis.ipynb
+
+
+### Infolite
+
+- https://chrome.google.com/webstore/detail/infolite/ipjbadabbpedegielkhgpiekdlmfpgal
